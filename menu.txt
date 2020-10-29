@@ -14,7 +14,7 @@ DEEPAK UGHADE
      isClosed = false;
 
     trigger.click(function () {
-      hamburger_cross();      
+      hamburger_cross();      fefefefefefefefefefefefefefefefefef
     });
 
     function hamburger_cross() {
