@@ -30,7 +30,7 @@ DEEPAK UGHADE
         trigger.addClass('is-open');
         isClosed = true;
       }
-  }
+  }sdcsdvsdvddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd
   
   $('[data-toggle="offcanvas"]').click(function () {
         $('#wrapper').toggleClass('toggled');
